@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: MGSE Blogs
+title: MGSE BLOGS
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: MGSE Blogs
+  title: MGSE BLOGS
   description: dreamer,we are dreamers!.
   image: '/images/01.jpg'
 
