@@ -9,11 +9,6 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
-author:
-  name: Students of MGSE
-  avatar: '/images/15.jpg'
-
-
 #-------------------------------
 # Hero Settings
 hero:
