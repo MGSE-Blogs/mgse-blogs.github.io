@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/12.jpg'
 ---
 to be edited
 
