@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Style Guide
-permalink: /styleguide/
+title: magazines
+permalink: /magazines/
 image: '/images/50.jpg'
 ---
 
