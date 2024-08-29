@@ -5,14 +5,10 @@ permalink: /magazines/
 image: '/images/50.jpg'
 ---
 ## 2024
-- **[Post Title 1](#)** - *January 5, 2024*
-  - A brief description or excerpt of the post.
+- **[MG sparks vol: 2](https://drive.google.com/file/d/1YVq2CGDMj3OXKSXzOn_hDYqPUz6yzRfm/view?usp=sharing)** - *august, 2024*
+  - independence day edittion!
   
-- **[Post Title 2](#)** - *March 12, 2024*
-  - A brief description or excerpt of the post.
+- **[MG sparks vol: 1](https://drive.google.com/file/d/1mL25zfmUA_ttjx4Qyjsr96q_FHvabbBi/view?usp=sharing)** - *july, 2024*
+  - Pilot
 
-## 2023
-- **[Post Title 1](#)** - *February 15, 2023*
-  - A brief description or excerpt of the post.
-  
-- **
+
