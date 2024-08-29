@@ -5,7 +5,7 @@ date:   2018-11-09
 image:  '/images/06.jpg'
 ---
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> Never regret. If it's good, it's wonderful. If it's bad, it's experience!
 >
-> <cite>George Bernard Shaw</cite>
+> <cite>Victoria Holt</cite>
 
