@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  To a new beginning!
-date:   2024-29-08
+date:   2024-08-29
 image:  '/images/06.jpg'
 ---
 
