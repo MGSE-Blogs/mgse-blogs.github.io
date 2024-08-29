@@ -12,8 +12,8 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Hero Settings
 hero:
-  title: MGSE BLOGS
-  description: dreamers,we are dreamers!.
+  title: Created to inspire
+  description: for the students by the students.
   image: '/images/01.jpg'
 
 
