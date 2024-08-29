@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: #MGSE BLOGS
+title:  
 logo: #'/images/logo.png'
 description: a blog for students by students
 baseurl: "" # The subpath of your site, e.g. /blog
