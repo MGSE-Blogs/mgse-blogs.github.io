@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  A journey of a thousand leagues begins beneath one’s feet
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
 date:   2018-11-09 
 image:  '/images/06.jpg'
 ---
