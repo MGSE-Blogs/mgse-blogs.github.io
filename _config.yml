@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-title: MGSE BLOGS
-logo: '/images/logo.png'
+title: #MGSE BLOGS
+logo: #'/images/logo.png'
 description: a blog for students by students
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
@@ -12,8 +12,8 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Hero Settings
 hero:
-  title: Created to inspire
-  description: for the students by the students.
+  title: MGSE BLOGS
+  description: Created To Inspire.
   image: '/images/01.jpg'
 
 
