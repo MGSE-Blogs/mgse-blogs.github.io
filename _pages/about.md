@@ -15,7 +15,7 @@ MGSE Blogs is entirely managed by students for students. Our team consists of pa
 At MGSE Blogs, we believe that every student has a unique story to tell. Our platform provides a space for students to express themselves, explore their interests, and engage with their peers. Whether it’s an insightful essay, a passionate opinion piece, a creative short story, or an exciting update on school activities, you’ll find it here.
 
 
-### how to contribute?  
+### How To Contribute?  
 Interested in contributing to MGSE Blogs? We’re always looking for new voices! Whether you’re an aspiring writer, a budding journalist, or simply have something to say, we invite you to join us. Reach out to us through **mgseblogs@gmail.com** and let your voice be heard!
 
 Thank you for visiting MGSE Blogs. We hope you enjoy reading our content as much as we enjoy creating it. Together, let’s keep the conversation going!
