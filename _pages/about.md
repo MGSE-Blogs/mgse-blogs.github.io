@@ -6,7 +6,7 @@ image: '/images/12.jpg'
 ---
 Welcome to MGSE Blogs, the official student-run blog platform of MG School For Excellence! Here, we celebrate the voices, creativity, and diverse perspectives of our student community. MGSE Blogs is a vibrant space where students share their thoughts, ideas, and stories on a wide range of topics—from academics and school events to personal experiences and creative writing.
 
-#### Who We Are:
+### Who We Are:
 
 MGSE Blogs is entirely managed by students for students. Our team consists of passionate editors, and creatives dedicated to giving a voice to the student body. We’re here to support our fellow students in honing their writing skills, developing their ideas, and reaching a wider audience within the school community and beyond.
 
