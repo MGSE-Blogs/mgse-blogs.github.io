@@ -7,7 +7,7 @@ image: '/images/50.jpg'
 ## 2024  
 
   - **[MG sparks vol: 3](https://drive.google.com/file/d/1E8keDHr5WyrKuIDYb3OZLqHMIAtIFYAj/view?usp=sharing)** - *october, 2024*
-     - independence day edition!
+     - diwali edition!
        
 
   - **[MG sparks vol: 2](https://drive.google.com/file/d/1YVq2CGDMj3OXKSXzOn_hDYqPUz6yzRfm/view?usp=sharing)** - *august, 2024*
