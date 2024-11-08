@@ -14,7 +14,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 hero:
   title: Created To Inspire.
   description: for the students by the students
-  image: '/images/01.jpg'
+  image: '/images/02.png'
 
 
 #-------------------------------
