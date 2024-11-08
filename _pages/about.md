@@ -5,8 +5,6 @@ permalink: /about/
 image: '/images/12.jpg'
 ---
 
-![slogo](https://github.com/user-attachments/assets/d5caeef3-7f9a-4848-828f-44a477b6f073)
-
 Welcome to MGSE Blogs, the official student-run blog platform of MG School For Excellence! Here, we celebrate the voices, creativity, and diverse perspectives of our student community. MGSE Blogs is a vibrant space where students share their thoughts, ideas, and stories on a wide range of topics—from academics and school events to personal experiences and creative writing.
 
 ### Who We Are:
@@ -23,4 +21,5 @@ Interested in contributing to MGSE Blogs? We’re always looking for new voices!
 
 Thank you for visiting MGSE Blogs. We hope you enjoy reading our content as much as we enjoy creating it. Together, let’s keep the conversation going!
 
+![slogo](https://github.com/user-attachments/assets/d5caeef3-7f9a-4848-828f-44a477b6f073)
 <hr>
