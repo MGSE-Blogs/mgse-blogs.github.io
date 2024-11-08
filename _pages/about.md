@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 image: '/images/12.jpg'
 ---
-
-  ![image](https://github.com/user-attachments/assets/1ae87721-7de0-407b-80d4-472f6240163a)
-
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 Welcome to MGSE Blogs, the official student-run blog platform of MG School For Excellence! Here, we celebrate the voices, creativity, and diverse perspectives of our student community. MGSE Blogs is a vibrant space where students share their thoughts, ideas, and stories on a wide range of topics—from academics and school events to personal experiences and creative writing.
 
