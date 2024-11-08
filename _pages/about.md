@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 image: '/images/12.jpg'
 ---
+
+
 <p align="center">
   <img src="https://github.com/MGSE-Blogs/mgse-blogs.github.io/blob/main/images/slogo.png"/>
 </p>
