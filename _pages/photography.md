@@ -9,3 +9,4 @@ image: '/images/12.jpg'
 <b>A vast collection of some of the finest clicks of our students:</b>
 </div>
 
+<img src="https://github.com/user-attachments/assets/a3d257f7-76d4-43c0-be85-ebc18d37a55c" alt="rishbh" style="width:300px centre;">
