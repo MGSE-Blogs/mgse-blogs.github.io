@@ -5,4 +5,4 @@ permalink: /photography/
 image: '/images/12.jpg'
 ---
 
-test
+A vast collection of some of the finest clicks of our students!
