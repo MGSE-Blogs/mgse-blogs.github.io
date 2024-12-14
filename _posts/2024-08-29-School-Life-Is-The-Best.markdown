@@ -8,4 +8,5 @@ School life is a unique chapter in the story of human existence, a fleeting yet 
 
 When school ends, it leaves an indelible mark on our hearts, yet it never truly returns. We step into the world beyond its gates, carrying lessons that extend far beyond textbooks: the ability to dream, to persevere, and to cherish fleeting moments. But nostalgia often reminds us of what we once had—the simplicity of friendships unburdened by adulthood, the thrill of youthful ambitions, and the safety of a structured world. School life, with all its imperfections and beauty, becomes a relic of time, a reminder that life’s most precious moments are often those we only appreciate when they are gone. It teaches us to embrace the present, for nothing, not even the joy of school, lasts forever.
 
->"Sometimes we never value the true worth of a moment until it becomes a memory." – Dr. Seuss
+>"Sometimes we never value the true worth of a moment until it becomes a memory."
+> Dr. Seuss
