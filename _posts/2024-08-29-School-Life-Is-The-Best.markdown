@@ -10,5 +10,4 @@ When school ends, it leaves an indelible mark on our hearts, yet it never truly 
 
 
 >"Sometimes we never value the true worth of a moment until it becomes a memory."
-
 > Dr. Seuss
