@@ -9,6 +9,8 @@ image: '/images/01.jpg'
 <div style="text-align: center;">
   
 - **[To a new beginning!](https://mgse-blogs.github.io/2024/08/29/to-a-new-beginning/)** - *august 29, 2024*
+
+- **[School Life Is The Best!](https://mgse-blogs.github.io/2024/12/14/School-Life-Is-The-Best/)** - *december 14, 2024*
   
 </div>
   
