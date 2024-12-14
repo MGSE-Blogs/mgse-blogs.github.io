@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 permalink: /photography/
-image: '/images/12.jpg'
+image: '/images/photographybg.jpeg'
 ---
 
 <div style="text-align: center;">
