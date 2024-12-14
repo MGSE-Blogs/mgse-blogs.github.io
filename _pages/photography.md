@@ -11,10 +11,9 @@ image: '/images/12.jpg'
 
 
 
-<img src="https://github.com/user-attachments/assets/a3d257f7-76d4-43c0-be85-ebc18d37a55c" alt="rishbh" style="width:200px centre;">
+<img src="https://github.com/user-attachments/assets/91a3b808-7f96-414e-b10e-9c8e12fc3c49" alt="rishbh" style="width:350px centre;">
 
-<img src="https://github.com/user-attachments/assets/0a86fc47-99c3-4f6a-af26-d8d8ab003d98" alt="vismai" style="width:200px centre;">
+<img src="https://github.com/user-attachments/assets/2252f58c-069e-4e61-962e-9bbc31cacaa0" alt="vismai" style="width:350px centre;">
 
-<img src="https://github.com/user-attachments/assets/34366f70-2b88-4856-b8c2-fa2d2e42410b" alt="joy'n'ayaan" style="width:200px centre;">
-
+<img src="https://github.com/user-attachments/assets/5a038ea7-8c54-4d8a-98ea-08ed7b0cc90e" alt="joy'n'ayaan" style="width:350px centre;">
 
