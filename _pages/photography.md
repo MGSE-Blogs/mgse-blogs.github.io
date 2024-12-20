@@ -19,4 +19,6 @@ image: '/images/photographybg.jpeg'
 
 <img src="https://github.com/user-attachments/assets/5a038ea7-8c54-4d8a-98ea-08ed7b0cc90e" alt="joy'n'ayaan" style="width:750px centre;">
 
+<img src="https://github.com/user-attachments/assets/6861a1d8-ab90-4fa9-8578-79ef8651300d" alt="abhay'n'sameera" style="width:750px centre;">
+
 
