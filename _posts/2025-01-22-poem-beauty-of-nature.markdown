@@ -5,7 +5,8 @@ date:   2025-01-22
 image:  '/images/06.jpg'
 ---
 <div style="text-align: center;">
-*The Beauty of Nature* 
+
+## Beauty of nature
 
 Beneath the vast and endless skies,  
 A symphony of life softly lies.  
